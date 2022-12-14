@@ -1,0 +1,17 @@
+./IList.cs
+./TabManager.cs
+./locale/NGettextShortSyntax.cs
+./MainWindow.cs
+./obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+./obj/Debug/net6.0/lab2.AssemblyInfo.cs
+./EmployeesTab.cs
+./EntityIterator.cs
+./Form.cs
+./EntityList.cs
+./Models/IEntity.cs
+./Models/Post.cs
+./Models/NHibernate/NHibernateHelper.cs
+./Models/IRepositoryBase.cs
+./Models/Employees.cs
+./Tab.cs
+./Program.cs

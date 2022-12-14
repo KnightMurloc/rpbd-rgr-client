@@ -1,0 +1,257 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-13 13:29+0700\n"
+"PO-Revision-Date: 2022-11-13 13:32+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: EmployeesTab.cs:200
+msgid "Address"
+msgstr "Адрес"
+
+#: EmployeesTab.cs:201
+msgid "Birthday"
+msgstr "Дата рождения"
+
+#: BankDetailTab.cs:130 DrinkOrderTab.cs:219 DrinkTab.cs:128 DrinkTab.cs:200
+#: DrinkTab.cs:210 EmployeesTab.cs:124 IngredientTab.cs:106 OrderTab.cs:106
+#: ProductTab.cs:130 ProviderTab.cs:112 SnackOrderTab.cs:233 SnackTab.cs:139
+#: SnackTab.cs:194 SnackTab.cs:204 Tab.cs:110
+msgid "Cancel"
+msgstr "Отмена"
+
+#: BankDetailTab.cs:233
+msgid "City"
+msgstr "Город"
+
+#: DrinkTab.cs:279
+msgid "Container"
+msgstr "Ёмкость"
+
+#: OrderTab.cs:203
+msgid "Date"
+msgstr "Дата"
+
+#: DrinkOrderTab.cs:269
+msgid "Drink"
+msgstr "Напиток"
+
+#: ProviderTab.cs:185
+msgid "Email"
+msgstr "email"
+
+#: ProviderTab.cs:184
+msgid "Fax"
+msgstr "факс"
+
+#: ProductTab.cs:250
+msgid "Ingredient"
+msgstr "Ингредиент"
+
+#: BankDetailTab.cs:232 DrinkTab.cs:276 IngredientTab.cs:173 ProductTab.cs:249
+#: ProviderTab.cs:182 SnackTab.cs:270
+msgid "Name"
+msgstr "Имя"
+
+#: OrderTab.cs:202
+msgid "Number"
+msgstr "Номер"
+
+#: EmployeesTab.cs:199
+msgid "Patronymic"
+msgstr "Отчество"
+
+#: ProviderTab.cs:183
+msgid "Phone Number"
+msgstr "Тел."
+
+#: EmployeesTab.cs:203 OrderTab.cs:204
+msgid "Post"
+msgstr "Должнасть"
+
+#: ProductTab.cs:251
+msgid "Price"
+msgstr "Цена"
+
+#: ProductTab.cs:252
+msgid "Provider"
+msgstr "Поставщик"
+
+#: BankDetailTab.cs:234
+msgid "Provider Name"
+msgstr "Имя поставщика"
+
+#: EmployeesTab.cs:202
+msgid "Salary"
+msgstr "Зарплата"
+
+#: DrinkTab.cs:278 SnackTab.cs:271
+msgid "Size"
+msgstr "Размер"
+
+#: SnackOrderTab.cs:215
+msgid "Snack"
+msgstr "закуска"
+
+#: DrinkTab.cs:277
+msgid "Strength"
+msgstr "Крепость"
+
+#: DrinkOrderTab.cs:271 SnackOrderTab.cs:217
+msgid "Table"
+msgstr "Столик"
+
+#: IngredientTab.cs:174
+msgid "Unit"
+msgstr "Единица"
+
+#: DrinkOrderTab.cs:270 SnackOrderTab.cs:216
+msgid "Waiter"
+msgstr "Официант"
+
+#: tranclate.txt:3
+msgid "bartender"
+msgstr "бармен"
+
+#: EmployeesTab.cs:197
+msgid "first name"
+msgstr "имя"
+
+#: BankDetailTab.cs:332
+msgid "incorrect Settlement Account"
+msgstr "не корректный расчётный счёт"
+
+#: BankDetailTab.cs:326
+msgid "incorrect TIN"
+msgstr "не корректная дата"
+
+#: EmployeesTab.cs:322 OrderTab.cs:324
+msgid "incorrect date"
+msgstr "не коректная дата"
+
+#: tranclate.txt:4
+msgid "manager"
+msgstr "менеджер"
+
+#: DrinkTab.cs:346
+msgid "no Container specified"
+msgstr "не указана ёмкость"
+
+#: ProductTab.cs:351
+msgid "no Delivery Terms specified"
+msgstr "не указаны условия поставки"
+
+#: ProductTab.cs:357
+msgid "no Payment Terms specified"
+msgstr "не указаны условия оплаты"
+
+#: DrinkTab.cs:340
+msgid "no Strength specified"
+msgstr "не указана крепость"
+
+#: EmployeesTab.cs:297 ProviderTab.cs:252
+msgid "no address specified"
+msgstr "адрес не указан"
+
+#: BankDetailTab.cs:320
+msgid "no city specified"
+msgstr "город не указан"
+
+#: EmployeesTab.cs:303 OrderTab.cs:305
+msgid "no day specified"
+msgstr "не указан день"
+
+#: DrinkOrderTab.cs:328 SnackOrderTab.cs:322
+msgid "no drink specified"
+msgstr "напиток не указан"
+
+#: ProviderTab.cs:267
+msgid "no email specified"
+msgstr "email не указан"
+
+#: ProviderTab.cs:262
+msgid "no fax specified"
+msgstr "факс не указан"
+
+#: ProductTab.cs:339
+msgid "no ingredient specified"
+msgstr "ингредиент не указан"
+
+#: EmployeesTab.cs:291
+msgid "no last name specified"
+msgstr "не указана фамилия"
+
+#: BankDetailTab.cs:314 DrinkTab.cs:334 DrinkTab.cs:352 EmployeesTab.cs:285
+#: IngredientTab.cs:231 ProviderTab.cs:247 SnackTab.cs:320 SnackTab.cs:326
+msgid "no name specified"
+msgstr "не указано имя"
+
+#: OrderTab.cs:299
+msgid "no numberEntry specified"
+msgstr "не указан номер"
+
+#: ProviderTab.cs:257
+msgid "no phone number specified"
+msgstr "не указан телефонный номер"
+
+#: ProductTab.cs:345
+msgid "no price specified"
+msgstr "цена не указана"
+
+#: OrderTab.cs:293
+msgid "no reason specified"
+msgstr "причина не указна"
+
+#: EmployeesTab.cs:328
+msgid "no salary specified"
+msgstr "зарплата не указана"
+
+#: DrinkOrderTab.cs:340 SnackOrderTab.cs:334
+msgid "no table specified"
+msgstr "столик не укзан"
+
+#: DrinkOrderTab.cs:334 SnackOrderTab.cs:328
+msgid "no waiter specified"
+msgstr "официант не указан"
+
+#: EmployeesTab.cs:315 OrderTab.cs:317
+msgid "no year specified"
+msgstr "год не указан"
+
+#: EmployeesTab.cs:309 OrderTab.cs:311
+msgid "not month specified"
+msgstr "месяц не указан"
+
+#: ProductTab.cs:363
+msgid "provider set error"
+msgstr "ошибка установки поставщика"
+
+#: EmployeesTab.cs:198
+msgid "second name"
+msgstr "фамилия"
+
+#: EmployeesTab.cs:338 OrderTab.cs:332
+msgid "this post doesn't exist"
+msgstr "такая должность не существует"
+
+#: IngredientTab.cs:239
+msgid "this unit doesn't exist"
+msgstr "такая единица не существует"
+
+#: tranclate.txt:2
+msgid "waiter"
+msgstr "офицант"
